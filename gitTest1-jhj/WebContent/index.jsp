@@ -7,7 +7,7 @@
 <title>home</title>
 </head>
 <body>
-share project test
+share project test2
 <!-- jsp와 java file 하나씩 만들어 놓고 upload 하는 것이 좋음 -->
 </body>
 </html>
